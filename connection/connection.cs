@@ -17,6 +17,10 @@ namespace Platform
             using var cmd = new NpgsqlCommand(sql, con);
 
             var version = cmd.ExecuteScalar().ToString();
+
+            Console.WriteLine(version);
+
+            
             return $"{version}";
 
         }

@@ -839,11 +839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\nmnic\\Desktop\\Platform\\Platform.csproj",
+      "projectUniqueName": "C:\\Users\\nmnic\\Desktop\\Platform_DB\\Platform.csproj",
       "projectName": "Platform",
-      "projectPath": "c:\\Users\\nmnic\\Desktop\\Platform\\Platform.csproj",
+      "projectPath": "C:\\Users\\nmnic\\Desktop\\Platform_DB\\Platform.csproj",
       "packagesPath": "C:\\Users\\nmnic\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\nmnic\\Desktop\\Platform\\obj\\",
+      "outputPath": "C:\\Users\\nmnic\\Desktop\\Platform_DB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

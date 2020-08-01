@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQcWnDGNk9+0a67mxcHIJTf29+2PShm7KHV0+Wt8c8ZuoDO14IDt1ixnuh7kWwh4jlwvUAXf/coYrUBnz/0mIw==",
+  "dgSpecHash": "2M9quJ8EE1HQ+/vq/QkCCWfGkpoNSczQzFb5uNBMO210OxQRhPPXXrZh1FioJdfGNPGQ4/3i5d0YFWp8vqFO+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nmnic\\Desktop\\Platform\\Platform.csproj",
+  "projectFilePath": "C:\\Users\\nmnic\\Desktop\\Platform_DB\\Platform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nmnic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nmnic\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
